@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6230c0fd-98ca-4b5f-9e55-f05e2dfce2e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Java/idea13_ws/idea_plugins_ws/clean-code-method-rearranger" value="PREVIEW" />
+        <entry key="D:/Java/idea13_ws/learn/ChatRoom" value="PREVIEW" />
+        <entry key="D:/Java/idea13_ws/temp/mybatis-plus" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1fj3D0SVL8snMavm12ndqfCMlkv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.1" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="$USER_HOME$/AppData/Roaming/npm/node_modules/grunt-cli" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javascript\webstorm_ws\grunt-code-extract\test" />
+      <recent name="D:\javascript\webstorm_ws\grunt-code-extract\tmp\test" />
+      <recent name="D:\javascript\webstorm_ws\grunt-code-extract" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="default" />
+      </tasks>
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="test" />
+      </tasks>
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Grunt.js.default" />
+        <item itemvalue="Grunt.js.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6230c0fd-98ca-4b5f-9e55-f05e2dfce2e4" name="Default Changelist" comment="" />
+      <created>1596717550678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596717550678</updated>
+      <workItem from="1596717551846" duration="13679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1559" height="273" key="GridCell.Tab.0.bottom" timestamp="1596733308965">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1559" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
+    <state width="1559" height="273" key="GridCell.Tab.0.center" timestamp="1596733308965">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1559" height="273" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
+    <state width="1559" height="273" key="GridCell.Tab.0.left" timestamp="1596733308965">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1559" height="273" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
+    <state width="1559" height="273" key="GridCell.Tab.0.right" timestamp="1596733308965">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1559" height="273" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
+    <state x="214" y="29" width="1551" height="940" key="SettingsEditor" timestamp="1596722696495">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="214" y="29" width="1551" height="940" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1596722696495" />
+    <state x="630" y="255" width="806" height="614" key="find.popup" timestamp="1596732443263">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="630" y="255" width="806" height="614" key="find.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1596732443263" />
+    <state x="681" y="339" key="jetbrains.nodejs.interpreters-dialog" timestamp="1596718508064">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="681" y="339" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1052@0.0.1920.1052" timestamp="1596718508064" />
+  </component>
+</project>
