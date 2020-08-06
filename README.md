@@ -41,7 +41,9 @@ grunt.initConfig({
       files  : [{
         expand : true, flatten: true,
         src    : ['test/source*.js'], dest: 'tmp/',
-        replace: 'window.obj', extractDest: 'tmp/extract.json'
+        replace       : function (block, srcFilepath) {
+          return block.replace === '"a"' ? '"A"' : '//' + srcFilepath;
+        }, extractDest: 'tmp/extract.json'
       }]
     }
   },

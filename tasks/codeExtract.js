@@ -51,9 +51,10 @@ module.exports = function (grunt) {
             if (startIdx >= 0 && startIdx < endIdx && endIdx >= 0) {
               var prefix = src.substring(0, startIdx);
               newSrc.push(prefix);
-              if (!!block.replace) {
-                newSrc.push(typeof block.replace === 'function' ?
-                  block.replace.apply(this, [filepath, f.dest, origniSrc, src, newSrc, extracts]) : block.replace);
+              var replace = f.replace || block.replace;
+              if (!!replace) {
+                newSrc.push(typeof replace === 'function' ?
+                  replace.apply(this, [block, filepath, f.dest, origniSrc, src, newSrc, extracts]) : replace);
               }
               extracts.push(src.substring(startIdx + block.start.length, endIdx));
               src = src.substr(endIdx + block.end.length);

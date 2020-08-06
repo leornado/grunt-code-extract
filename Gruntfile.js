@@ -37,7 +37,7 @@ module.exports = function (grunt) {
             {start: '/* code-extract-start */', end: '/* code-extract-end */', replace: '"a"'},
             {
               start  : '/* start */', end: '/* end */',
-              replace: function (srcFilepath, replacedSrcPath, origniSrc,
+              replace: function (block, srcFilepath, replacedSrcPath, origniSrc,
                 currentDealedPartialSrc, currentDealedRemainedSrcArray, extractedSrcArray) {
                 return '//sdf';
               }
@@ -45,9 +45,11 @@ module.exports = function (grunt) {
           ]
         },
         files  : [{
-          expand : true, flatten: true,
-          src    : ['test/source*.js'], dest: 'tmp/',
-          replace: 'window.obj', extractDest: 'tmp/extract.json'
+          expand        : true, flatten: true,
+          src           : ['test/source*.js'], dest: 'tmp/',
+          replace       : function (block, srcFilepath) {
+            return block.replace === '"a"' ? '"A"' : '//' + srcFilepath;
+          }, extractDest: 'tmp/extract.json'
         }]
       }
     },
