@@ -26,6 +26,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1fj3D0SVL8snMavm12ndqfCMlkv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,7 +54,7 @@
       <recent name="D:\javascript\webstorm_ws\grunt-code-extract" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Grunt.js.default">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -116,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Grunt.js.default" />
         <item itemvalue="Grunt.js.test" />
+        <item itemvalue="Grunt.js.default" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596717550678</updated>
-      <workItem from="1596717551846" duration="13679000" />
+      <workItem from="1596717551846" duration="17458000" />
+      <workItem from="1597867600238" duration="400000" />
     </task>
     <servers />
   </component>
@@ -139,22 +141,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1559" height="273" key="GridCell.Tab.0.bottom" timestamp="1596733308965">
+    <state width="1559" height="273" key="GridCell.Tab.0.bottom" timestamp="1597867999683">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1559" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
-    <state width="1559" height="273" key="GridCell.Tab.0.center" timestamp="1596733308965">
+    <state width="1559" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1597867999683" />
+    <state width="1559" height="273" key="GridCell.Tab.0.center" timestamp="1597867999683">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1559" height="273" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
-    <state width="1559" height="273" key="GridCell.Tab.0.left" timestamp="1596733308965">
+    <state width="1559" height="273" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1597867999683" />
+    <state width="1559" height="273" key="GridCell.Tab.0.left" timestamp="1597867999683">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1559" height="273" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
-    <state width="1559" height="273" key="GridCell.Tab.0.right" timestamp="1596733308965">
+    <state width="1559" height="273" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1597867999683" />
+    <state width="1559" height="273" key="GridCell.Tab.0.right" timestamp="1597867999683">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1559" height="273" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1596733308965" />
+    <state width="1559" height="273" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1597867999683" />
+    <state x="737" y="240" key="RollbackChangesDialog" timestamp="1597867974955">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="737" y="240" key="RollbackChangesDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1597867974955" />
     <state x="214" y="29" width="1551" height="940" key="SettingsEditor" timestamp="1596722696495">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>

@@ -33,7 +33,7 @@ module.exports = function (grunt) {
     codeExtract: {
       jsExample1: {
         options: {
-          blocks: [
+          blocks              : [
             {start: '/* code-extract-start */', end: '/* code-extract-end */', replace: '"a"'},
             {
               start  : '/* start */', end: '/* end */',
@@ -42,7 +42,10 @@ module.exports = function (grunt) {
                 return '//sdf';
               }
             }
-          ]
+          ],
+          handleExtractContent: function (content) {
+            return content + '\n// comment from custom function';
+          }
         },
         files  : [{
           expand        : true, flatten: true,

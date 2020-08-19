@@ -74,7 +74,11 @@ module.exports = function (grunt) {
     });
 
     // Write the extracted file.
-    grunt.file.write(extractDest, extracts.join(''));
+    var extractedContent = extracts.join('');
+    if (options.handleExtractContent) {
+      extractedContent = options.handleExtractContent(extractedContent);
+    }
+    grunt.file.write(extractDest, extractedContent);
     grunt.log.writeln('File "' + extractDest + '" extracted.');
   });
 
